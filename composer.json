@@ -1,8 +1,9 @@
 {
     "name": "leasify/laravel-chunk-upload",
-    "description": "Service for chunked upload with several js providers",
+    "description": "Leasify Overtake: Service for chunked upload with several js providers",
     "license": "MIT",
     "keywords": [
+        "leasify",
         "laravel",
         "chunk",
         "upload"
